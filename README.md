@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/nschloe/meshio"><img alt="meshio" src="figs/meshio/logo-with-text.svg" width="60%"></a>
+  <a href="https://github.com/nschloe/meshio"><img alt="meshio" src="figs/logo-with-text.svg" width="60%"></a>
   <p align="center">I/O for mesh files.</p>
 </p>
 
@@ -166,7 +166,7 @@ with meshio.xdmf.TimeSeriesReader(filename) as reader:
 
 ### ParaView plugin
 
-<img alt="gmsh paraview" src="figs/meshio/gmsh-paraview.png" width="60%">
+<img alt="gmsh paraview" src="figs/gmsh-paraview.png" width="60%">
 *A Gmsh file opened with ParaView.*
 
 If you have downloaded a binary version of ParaView, you may proceed as follows.
@@ -186,15 +186,15 @@ triangles. The red lines mark the size of the mesh in memory.
 
 #### File sizes
 
-<img alt="file size" src="figs/meshio/filesizes.svg" width="60%">
+<img alt="file size" src="figs/filesizes.svg" width="60%">
 
 #### I/O speed
 
-<img alt="performance" src="figs/meshio/performance.svg" width="90%">
+<img alt="performance" src="figs/performance.svg" width="90%">
 
 #### Maximum memory usage
 
-<img alt="memory usage" src="figs/meshio/memory.svg" width="90%">
+<img alt="memory usage" src="figs/memory.svg" width="90%">
 
 ### Installation
 
